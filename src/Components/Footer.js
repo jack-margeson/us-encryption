@@ -18,8 +18,6 @@ class Footer extends Component {
       <footer>
         <div className="row">
           <div className="twelve columns">
-            <ul className="social-links">{networks}</ul>
-
             <ul className="copyright">
               <li>&copy; Copyright 2017 Nordic Giant</li>
               <li>
@@ -28,6 +26,7 @@ class Footer extends Component {
                   Styleshout
                 </a>
               </li>
+              <li>Researched and compiled with love by Jack Margeson</li>
             </ul>
           </div>
           <div id="go-top">
