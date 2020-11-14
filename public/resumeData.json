@@ -5,74 +5,64 @@
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Getting in touch with your state senators and letting them know you object to The Lawful Access To Encrypted Data Act is the best way to make sure your voice is heard.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github": "https://github.com/nordicgiant2/react-nice-resume",
-    "project": "https://github.com/nordicgiant2/react-nice-resume",
-    "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
-    "social": [
-      {
-        "name": "facebook",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
-        "className": "fa fa-github"
-      }
-    ]
+    "resumedownload": "http://timbakerdev.com"
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "PGP released",
+        "degree": "The birth of end-to-end encryption",
+        "graduated": "1991",
+        "description": "PGP (Pretty Good Privacy) released, providing cryptographic privacy for text, emails, files, and other data throughout the interenet."
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Phil Zimmermann's criminal investigation",
+        "degree": "Are cryptographic programs illegal?",
+        "graduated": "1993-1996",
+        "description": "Creater of PGP is put under investigation for distributing cryptographic software to countries outside the US."
+      },
+      {
+        "school": "The Publishing of PGP",
+        "degree": "End-to-end becomes widespread",
+        "graduated": "1995",
+        "description": "The PGP source code is published in a book, circumventing the distrobution laws on cryptographic software and providing end-to-end encryption and security for all."
+      },
+      {
+        "school": "WhatsApp incorperates end-to-end encryption",
+        "degree": "Largest use of end-to-end encryption to date",
+        "graduated": "2016",
+        "description": "WhatsApp, a popular messaging service with 1.6 billion users, encorperates end-to-end encryption for all  members."
+      },
+      {
+        "school": "EARN IT Bill introduced",
+        "degree": "The beginning of the end",
+        "graduated": "2019-2020",
+        "description": "The controversial EARN IT Bill is introduced into congress. On the bright side, cybercrime would decrease--but on the downside, every message sent on the internet would be screened from now on. "
+      },
+      {
+        "school": "The Lawful Access to Encrypted Data Act introduced",
+        "degree": "The death of end-to-end encryption",
+        "graduated": "2020",
+        "description": "LAED is introduced into congress as an even stricter bill than EARN IT.  If passed, LAED will require all services using end-to-end encryption to include a 'backdoor', or a way for the government to view the contents of the data being sent."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "What is end-to-end encryption?",
+        "description": "When you send a piece of data over an end-to-end encrypted line, the program you’re using mathematically generates two cryptographic keys — a public key and a private key. When someone wants to send you a message, the service will encrypt their text or image with your public key, which is available for anyone to see. The trick is that any piece of data that is encoded with your public key cannot be decoded by anyone without your unique private key, which of course, only you will have. Decoding an encrypted message without the use of a private key is deemed cryptographically impossible—even the smartest and fastest computers can’t brute force their way into the message."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "What's a backdoor?",
+        "description": "A 'backdoor' is a piece of programming code that will let a user directly access encrypted data such as personal emails, work documents, important messages, among other things. This governmental backdoor is meant to intercept messages that pertain to crime, but in the wrong hands, could be used to see all interenet traffic of a certain individual."
+      },
+      {
+        "company": "Internet security will decrease.",
+        "description": "Man-in-the-middle attacks are a lot easier to perform without end-to-end encryption. These MITM attacks are exactly what they sound like—imagine that you’re sitting in a room with a hallway in the middle of you and a friend. You can’t see around the corner, but you need to relay a secret to your friend that would be super embarrassing if anyone else heard. Unfortunately for you, there’s a “man-in-the-middle” of you two lurking in the hallway, listening into your conversation without you knowing. Now, imagine you’re an employee for a billion-dollar company tasked with transmitting high-profile billing documents, and you can see where this becomes a problem. MITM attacks can be performed on a multitude of unsecure wireless connections such as wi-fi that you’d find anywhere in public. By willingly and knowingly implementing this insecurity, the act severely harms the aspect of online security for the end users of products that incorporate end-to-end encryption."
+      },
+      {
+        "company": "Technological advancements will slow.",
+        "description": "Many technological advancements are made by those in the 'free and open source' movement. But with increased accountability and increased time being needed to impliment governmental backdoors in programs, we will most likely see a drop in technological advancements in the next few years."
       }
     ],
     "skills": [
